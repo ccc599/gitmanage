@@ -7,6 +7,7 @@ public class Cla {
 	int status;
 	int clatypeid;
 	int id;
+	int ccc;
 	public String getName() {
 		return "Ãû³Æ£º"+name;
 	}
